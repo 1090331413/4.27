@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdbool.h>
+#include <string.h>
+int main()
+{
+	char haystack(), needle();
+	int n, i;
+	scanf("%d", &n);
+	for(i = 0; i < n; i++)
+	{
+		getchar(haystack(i));
+	 } 
+	return 0;
+}
